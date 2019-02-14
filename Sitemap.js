@@ -1,5 +1,5 @@
 // ---------------------------------------------------
-// Author: Beautiful Beta
+// Author: Jawangepost
 // Url: https://www.jawangepost.com
 // Version: 2
 // Date: 2k7-04-27
