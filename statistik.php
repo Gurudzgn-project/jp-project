@@ -1,6 +1,6 @@
 
 <?php
 echo "document.write('";
-echo "Bangke kau anjing";
+echo "<blink>Bangke kau anjing</blink>";
 echo "')";
 ?>
