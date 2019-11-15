@@ -19,7 +19,9 @@ function get_client_ip() {
         $ipaddress = 'IP tidak dikenali';
     return $ipaddress;
 }
+echo "document.write('";
 echo "IP anda adalah : ". get_client_ip()."<br>";
+echo "')";
 ?>
 <?php
 // Mendapatkan IP pengunjung menggunakan $_SERVER
