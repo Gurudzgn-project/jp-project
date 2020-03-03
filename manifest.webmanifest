@@ -1,0 +1,46 @@
+{
+  "dir" : "ltr",
+  "lang" : "en-US",
+  "name" : "Guru Design",
+  "scope" : "/",
+  "display" : "standalone",
+  "start_url" : "https://www.gurudzgn.com/",
+  "short_name" : "Guru Design",
+  "theme_color" : "#039be5",
+  "description" : "Blog Tips, Ilmu dan Tutorial",
+  "orientation" : "portrait",
+  "background_color" : "#fff",
+  "related_applications" : "",
+  "prefer_related_applications" : "false",
+  "icons" : [{
+    "src": "https://1.bp.blogspot.com/-v1lvENAdO4I/XZg19E64DvI/AAAAAAAAAPU/TFi6bkFxoskEjLGw757MrF-JV-2ZXTkSACPcBGAYYCw/s1600/48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-_M6tnOsgiS4/XZg1_MO1G-I/AAAAAAAAAPI/HA_vvkXdPA8qJDVCYOiXi2XbzgwTlmIHgCPcBGAYYCw/s1600/72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-3f2q0n6yVsc/XZg2AO3XLBI/AAAAAAAAAPA/9sTqKwPISHUtLEb4MhAycDaX25yQLgBywCPcBGAYYCw/s1600/96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-kkoORj_FAB4/XZg16ArE2oI/AAAAAAAAAPA/9epl84rlUSIM7G_b7z-mlvpvKVmUno3pACPcBGAYYCw/s1600/144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-UJ40sLDiIMk/XZg16oV3GUI/AAAAAAAAAPE/AmWWb4OKMPUkzqw9SwBia9_2_d-IynKsQCPcBGAYYCw/s1600/168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-aPMeKU5db3M/XZg1690C6QI/AAAAAAAAAO4/5R5Dki8Vz3s--hmOBsMnYsCK_i_LKxMsACPcBGAYYCw/s1600/192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-RlSEVngUFio/XZg19598NDI/AAAAAAAAAO4/G5eHKWXgwwU3QnbrUqjekHAO1C6qY_JcwCPcBGAYYCw/s320/512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "screenshots" : [],
+  "generated" : "true"
+}
